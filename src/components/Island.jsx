@@ -461,7 +461,7 @@ export function Island(props) {
           receiveShadow
           geometry={nodes.Mesh_2.geometry}
           material={materials.Resume}
-          onClick={() => {window.open("/sample.pdf")}}
+          onClick={() => {window.open("/resume")}}
         />
         <mesh
           castShadow
